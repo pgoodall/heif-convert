@@ -1,0 +1,7 @@
+# Ignore the venv
+.venv/
+
+# Ignore local image files
+*.HEIC
+*.jpg
+*.png
