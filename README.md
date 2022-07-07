@@ -1,2 +1,2 @@
 # heif-convert
-A python3 script to convery HEIC files to another image format
+A python3 script to convert HEIC files to another image format
